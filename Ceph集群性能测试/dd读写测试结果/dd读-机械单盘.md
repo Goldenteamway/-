@@ -6,7 +6,7 @@
 
 在node1下，将物理盘/dev/sdb挂载到/mnt/test。
 
-![avatar](\F:\工作\github\项目入口\测试\pictures\Ceph\dd读-机械单盘\1.png)
+![](https://github.com/Goldenteamway/Test/blob/master/pictures/Ceph/dd%E8%AF%BB-%E6%9C%BA%E6%A2%B0%E5%8D%95%E7%9B%98/1.png)
 
 **2.bs=4k的读出速度**
 
