@@ -26,7 +26,7 @@
 
 ![](../../pictures/Ceph/dd写-机械盘单盘/3.png)
 
-写4.1G文件，带conv=fsync参数，平均速度为**112MB/s**
+写4.1G文件，带**conv=fsync**参数，平均速度为**112MB/s**
 
 输入
 
@@ -34,7 +34,7 @@
 
 ![](../../pictures/Ceph/dd写-机械盘单盘/4.png)
 
-写4.1G文件，带oflag=sync参数，平均速度为**4.7MB/s**
+写4.1G文件，带**oflag=sync**参数，平均速度为**4.7MB/s**
 
 输入
 
@@ -42,7 +42,7 @@
 
 ![](../../pictures/Ceph/dd写-机械盘单盘/5.png)
 
-写4.1G文件，带oflag=direct参数，平均速度为**24.7MB/s**
+写4.1G文件，带**oflag=direct**参数，平均速度为**24.7MB/s**
 
 ---
 
@@ -62,7 +62,7 @@
 
 ![](../../pictures/Ceph/dd写-机械盘单盘/7.png)
 
-写10G文件，带conv=fsync参数，平均速度为**116.7MB/s**
+写10G文件，带**conv=fsync**参数，平均速度为**116.7MB/s**
 
 输入
 
@@ -70,7 +70,7 @@
 
 ![](../../pictures/Ceph/dd写-机械盘单盘/8.png)
 
-写10G文件，带oflag=sync参数，平均速度为**95.0MB/s**
+写10G文件，带**oflag=sync**参数，平均速度为**95.0MB/s**
 
 输入
 
@@ -78,5 +78,5 @@
 
 ![](../../pictures/Ceph/dd写-机械盘单盘/9.png)
 
-写10G文件，带oflag=direct参数，平均速度为**125MB/s**
+写10G文件，带**oflag=direct**参数，平均速度为**125MB/s**
 
