@@ -11,5 +11,6 @@
 * dd写测试结果
   * [dd写-机械盘单盘](Ceph集群性能测试/dd读写测试结果/dd写-机械盘单盘.md)
   * [dd写-ssd单盘](Ceph集群性能测试/dd读写测试结果/dd写-ssd单盘.md)
+  * [dd写-机械盘开源ceph](Ceph集群性能测试/dd读写测试结果/dd写-机械盘开源ceph.md)
   * [dd写-机械盘集群](Ceph集群性能测试/dd读写测试结果/dd写-机械盘集群.md)
   * [dd写-ssd集群](Ceph集群性能测试/dd读写测试结果/dd写-ssd集群.md)
